@@ -1,0 +1,142 @@
+@charset "ISO-8859-1";
+
+@font-face {
+    font-family: SourceSansPro-Bold;
+    src: url(../fonts/Source_Sans_Pro/SourceSansPro-Bold.ttf);
+}
+
+@font-face {
+    font-family: SourceSansPro;
+    src: url(../fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'telcelnovafina';
+    src: url('../fonts/TelcelNova/telcelnova-fina-webfont.woff2') format('woff2'),
+         url('../fonts/TelcelNova/telcelnova-fina-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'telcelnovafina_italicas';
+    src: url('../fonts/TelcelNova/telcelnova-finaitalicas-webfont.woff2') format('woff2'),
+         url('../fonts/TelcelNova/telcelnova-finaitalicas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'telcelnovaligera';
+    src: url('../fonts/TelcelNova/telcelnova-ligera-webfont.woff2') format('woff2'),
+         url('../fonts/TelcelNova/telcelnova-ligera-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'telcelnovaligera_italicas';
+    src: url('../fonts/TelcelNova/telcelnova-ligeraitalicas-webfont.woff2') format('woff2'),
+         url('../fonts/TelcelNova/telcelnova-ligeraitalicas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'telcelnovamedia';
+    src: url('../fonts/TelcelNova/telcelnova-media-webfont.woff2') format('woff2'),
+         url('../fonts/TelcelNova/telcelnova-media-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'telcelnovamedia_italicas';
+    src: url('../fonts/TelcelNova/telcelnova-mediaitalicas-webfont.woff2') format('woff2'),
+         url('../fonts/TelcelNova/telcelnova-mediaitalicas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'telcelnovaobscura';
+    src: url('../fonts/TelcelNova/telcelnova-obscura-webfont.woff2') format('woff2'),
+         url('../fonts/TelcelNova/telcelnova-obscura-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'telcelnovaobscura_italicas';
+    src: url('telcelnova-obscuraitalicas-webfont.woff2') format('woff2'),
+         url('telcelnova-obscuraitalicas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'telcelnovarobusta';
+    src: url('telcelnova-robusta-webfont.woff2') format('woff2'),
+         url('telcelnova-robusta-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'telcelnovarobusta_italicas';
+    src: url('telcelnova-robustaitalicas-webfont.woff2') format('woff2'),
+         url('telcelnova-robustaitalicas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*{
+	font-family: SourceSansPro, sans-serif;
+}
+
+.general-text{
+	font-family: SourceSansPro, sans-serif;
+}
+
+.tittle-text{
+	font-family: telcelnovaobscura;
+}
+
+.tittle2-text{
+	font-family: telcelnovamedia;
+}
+
