@@ -28,7 +28,8 @@
   <link rel="stylesheet" href="resources/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
   <!-- Daterange picker -->
   <link rel="stylesheet" href="resources/bower_components/bootstrap-daterangepicker/daterangepicker.css">
-
+  <!-- Estilos de footer ayd-->
+  <link rel="stylesheet" type="text/css" href="resources/css/footer.css">
 
   <style>
 
@@ -352,7 +353,7 @@
 		</p>
 		<ul >	
 			<ui>
-				<a href="#" onclick="MM_openBrWindow('copyright.jsp','Copyright','')">
+				<a href="${pageContext.request.contextPath}/Copyright" >
 				 &copy; 2003, Radiomóvil Dipsa, S.A. de C.V. Todos los derechos reservados
 				</a>
 			</ui>
