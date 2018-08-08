@@ -8,8 +8,14 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class FooterControler {
 	@RequestMapping(value = "/Copyright", method = RequestMethod.GET)
-	public String login(ModelMap model) {
+	public String copyright(ModelMap model) {
 		return "copyright";
+
+	}
+	
+	@RequestMapping(value = "/Terminos", method = RequestMethod.GET)
+	public String terminos(ModelMap model) {
+		return "terminos";
 
 	}
 	

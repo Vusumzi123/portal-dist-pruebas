@@ -353,12 +353,12 @@
 		</p>
 		<ul >	
 			<ui>
-				<a href="${pageContext.request.contextPath}/Copyright" >
+				<a href="${pageContext.request.contextPath}/Copyright" target="_blank">
 				 &copy; 2003, Radiomóvil Dipsa, S.A. de C.V. Todos los derechos reservados
 				</a>
 			</ui>
 			<ui>
-				<a href="#" onclick ="MM_openBrWindow('politicas.jsp','Copyright','')">
+				<a href="${pageContext.request.contextPath}/Terminos" target="_blank">
 					Términosy Condiciones de Uso
 				</a>
 			</ui>
