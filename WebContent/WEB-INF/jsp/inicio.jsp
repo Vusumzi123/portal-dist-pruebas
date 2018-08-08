@@ -345,11 +345,25 @@
     </div>
     <!-- /.content-wrapper -->
     <footer class="main-footer">
-      <div class="pull-right hidden-xs">
-        <b>Version</b> 2.4.0
-      </div>
-      <strong>Copyright &copy; 2014-2016
-        <a href="https://adminlte.io">Almsaeed Studio</a>.</strong> All rights reserved.
+      <div class="footerPortalDis">
+		<p>Todos los accesos y actividades en la aplicación son monitoreados<br>
+			Al acceder a la página de distribuidor.telcel.com los usuarios se
+			sujetan a los términos y condiciones de uso de la misma 
+		</p>
+		<ul >	
+			<ui>
+				<a href="#" onclick="MM_openBrWindow('copyright.jsp','Copyright','')">
+				 &copy; 2003, Radiomóvil Dipsa, S.A. de C.V. Todos los derechos reservados
+				</a>
+			</ui>
+			<ui>
+				<a href="#" onclick ="MM_openBrWindow('politicas.jsp','Copyright','')">
+					Términosy Condiciones de Uso
+				</a>
+			</ui>
+			<ui><a href="#" onclick ="">Políticas de Privacidad</a></ui>	
+		</ul>
+	</div>
     </footer>
 
 
