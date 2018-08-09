@@ -6,8 +6,11 @@
 	</head>
 
 	<body>
-		<h1>PORTAL DISTRIBUIDORES TELCEL</h1>
-		<h2>T&eacute;rminos y Condiciones de Uso:</h2>
+		<div class="headerTerminos" >
+			<h1>PORTAL DISTRIBUIDORES TELCEL</h1>
+		 	<h2>T&eacute;rminos y Condiciones de Uso:</h2>
+		</div>
+		
 		<div class="ContenidoTerminos">
 			<h3>LIMITACI&Oacute;N DE RESPONSABILIDAD</h3>
 			<p>
@@ -47,6 +50,7 @@
 			<br>
 			<p>
 				A.EL FUNCIONAMIENTO, DISPONIBILIDAD, ACCESIBILIDAD O CONTINUIDAD DE LOS 
+				SITIOS ENLAZADOS.
 			</p>
 			<br>
 			<p>
