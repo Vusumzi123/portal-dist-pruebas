@@ -19,6 +19,12 @@ public class FooterControler {
 
 	}
 	
+	@RequestMapping(value = "/Politicas", method = RequestMethod.GET)
+	public String politicas(ModelMap model) {
+		return "politicas";
+
+	}
+	
 
 	
 }

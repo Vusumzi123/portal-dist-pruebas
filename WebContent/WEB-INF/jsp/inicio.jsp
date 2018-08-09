@@ -359,10 +359,13 @@
 			</ui>
 			<ui>
 				<a href="${pageContext.request.contextPath}/Terminos" target="_blank">
-					Términosy Condiciones de Uso
+					T&eacute;rminosy Condiciones de Uso
 				</a>
 			</ui>
-			<ui><a href="#" onclick ="">Políticas de Privacidad</a></ui>	
+			<ui>
+				<a  href="${pageContext.request.contextPath}/Politicas" target="_blank">Políticas de Privacidad
+				</a>
+			</ui>	
 		</ul>
 	</div>
     </footer>
