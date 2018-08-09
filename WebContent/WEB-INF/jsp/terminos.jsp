@@ -3,12 +3,13 @@
 		<title>Terminos y Condiciones de Uso</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 		<link rel="stylesheet" type="text/css" href="resources/css/terminos.css">
+		<link rel="stylesheet" type="text/css" href="resources/css/fonts.css">
 	</head>
 
 	<body>
 		<div class="headerTerminos" >
-			<h1>PORTAL DISTRIBUIDORES TELCEL</h1>
-		 	<h2>T&eacute;rminos y Condiciones de Uso:</h2>
+			<h1 class="tittle2-text">PORTAL DISTRIBUIDORES TELCEL</h1>
+		 	<h2 class="tittle3-text">T&eacute;rminos y Condiciones de Uso:</h2>
 		</div>
 		
 		<div class="ContenidoTerminos">

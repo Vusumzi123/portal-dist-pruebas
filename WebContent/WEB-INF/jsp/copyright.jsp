@@ -3,14 +3,17 @@
 	<head>
 		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet"> 
 		<link rel="stylesheet" type="text/css" href="resources/css/copyright.css">
+		<link rel="stylesheet" type="text/css" href="resources/css/fonts.css">
 		<title>&copy;Copyright</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	</head>
 	<body>
-		<h1>PORTAL DISTRIBUIDORES TELCEL</h1>
-		<h5>&copy; 2003, Radiom&oacute;vil Dipsa, S.A. de C.V. Todos los derechos reservados</h5>
-		<br>
+		<div class="copyrightHeader">
+			<h1 class="tittle2-text">PORTAL DISTRIBUIDORES TELCEL</h1>
+			<h5 class="tittle3-text">&copy; 2003, Radiom&oacute;vil Dipsa, S.A. de C.V. Todos los derechos reservados</h5>
+		</div>
 		<div class="copyrigthContent">
+		  <p class="generalText">
         	CUALQUIER 
           	LOGO, NOMBRE O SIGNO DISTINTIVO DE RADIOM&Oacute;VIL DIPSA, S.A. DE 
           	C.V, SUS SUBSIDIARIAS Y/O AFILIADAS, SON MARCAS REGISTRADAS EN LOS ESTADOS 
@@ -31,6 +34,7 @@
             CUMPLA CON LOS T&Eacute;RMINOS Y CONDICIONES MOSTRADOS EN EL SITIO 
             Y SE TENGA, EN TODO MOMENTO, EL CONSENTIMIENTO POR ESCRITO DE RADIOM&Oacute;VIL 
             DIPSA, S.A. DE C.V., SUS SUBSIDIARIAS Y/O AFILIADAS. 
+          </p>
 		</div>
 	</body>
 	

@@ -9,7 +9,7 @@
 	</head>	
 	<body>
 		<div class="headerPoliticas">
-			<h1>PORTAL DISTRIBUIDORES TELCEL</h1>
+			<h1 class="tittle2-text">PORTAL DISTRIBUIDORES TELCEL</h1>
 			<h2>POL&Iacute;TICAS DE PRIVACIDAD</h2>
 		</div>
 		<div class="contenidoPoliticas">

@@ -1,9 +1,12 @@
-h1{
+
+
+.copyrightHeader h1{
 	color:#02b0ef;
 	text-align: center;	
+	
 }
 
-h5{
+.copyrightHeader h5{
 	color:#02b0ef;
 	text-align: center;	
 }
@@ -15,3 +18,4 @@ h5{
 	margin: auto;
 	
 }
+
