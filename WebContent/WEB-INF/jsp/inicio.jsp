@@ -345,7 +345,7 @@
       <!-- /.content -->
     </div>
     <!-- /.content-wrapper -->
-    <footer class="main-footer">
+    <footer >
       <div class="footerPortalDis">
 		<p>Todos los accesos y actividades en la aplicación son monitoreados<br>
 			Al acceder a la página de distribuidor.telcel.com los usuarios se
