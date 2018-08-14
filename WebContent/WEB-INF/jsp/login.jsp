@@ -35,7 +35,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
 
-<body class="hold-transition login-page" style="background-image: url(resources/img/Mxx_RWUg.jpeg);">
+<body class="hold-transition login-page login-body" style="background-image: url(resources/img/Mxx_RWUg.jpeg);">
 
         <div class="login-box">
             <div class="login-logo">
