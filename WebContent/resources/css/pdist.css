@@ -57,3 +57,11 @@
 .button-icon path.st1{
     fill:#ffffff;
 }
+
+.login-body{
+	background-repeat: no-repeat!important;
+	background-size: cover!important;
+	background-origin: content-box!important;
+	background-position: center!important;
+	height: auto!important;
+}

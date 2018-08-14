@@ -28,7 +28,8 @@
   <link rel="stylesheet" href="resources/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
   <!-- Daterange picker -->
   <link rel="stylesheet" href="resources/bower_components/bootstrap-daterangepicker/daterangepicker.css">
-
+  <!-- Estilos de footer ayd-->
+  <link rel="stylesheet" type="text/css" href="resources/css/footer.css">
 
   <style>
 
@@ -344,12 +345,29 @@
       <!-- /.content -->
     </div>
     <!-- /.content-wrapper -->
-    <footer class="main-footer">
-      <div class="pull-right hidden-xs">
-        <b>Version</b> 2.4.0
-      </div>
-      <strong>Copyright &copy; 2014-2016
-        <a href="https://adminlte.io">Almsaeed Studio</a>.</strong> All rights reserved.
+    <footer >
+      <div class="footerPortalDis">
+		<p>Todos los accesos y actividades en la aplicación son monitoreados<br>
+			Al acceder a la página de distribuidor.telcel.com los usuarios se
+			sujetan a los términos y condiciones de uso de la misma 
+		</p>
+		<ul >	
+			<ui>
+				<a href="${pageContext.request.contextPath}/Copyright" target="_blank">
+				 &copy; 2003, Radiomóvil Dipsa, S.A. de C.V. Todos los derechos reservados
+				</a>
+			</ui>
+			<ui>
+				<a href="${pageContext.request.contextPath}/Terminos" target="_blank">
+					T&eacute;rminosy Condiciones de Uso
+				</a>
+			</ui>
+			<ui>
+				<a  href="${pageContext.request.contextPath}/Politicas" target="_blank">Políticas de Privacidad
+				</a>
+			</ui>	
+		</ul>
+	</div>
     </footer>
 
 
