@@ -1,15 +1,24 @@
-
-.informaction-header1{
-	color:#02b0ef;
+@import '../components/fonts';
+@import '../helpers/variables';
+.copyrightHeader1{
+	@extend .tittle2-text;
+	color:$azulMiTelcel;
 	text-align: center;	
+	font-size:1.5vw;
+	margin-bottom:0px;
 }
 
-.copyrightHeader h5{
-	color:#02b0ef;
+
+.copyrightHeader2{
+	@extend .tittle3-text;
+	color:$azulMiTelcel;
 	text-align: center;	
+	font-size:1vw;
+
 }
 
 .copyrigthContent{
+	@extend .generalText;
 	text-align:justify;
 	width:80%;
 	color:#707070;

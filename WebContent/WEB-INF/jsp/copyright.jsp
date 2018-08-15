@@ -1,15 +1,14 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 	<head>
-		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet"> 
-		<link rel="stylesheet" type="text/css" href="resources/css/pdist.css">
+		<link rel="stylesheet" href="resources/css/pdist.css">
 		<title>&copy;Copyright</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	</head>
 	<body>
 		<div class="copyrightHeader">
-			<p class="informaction-header1">PORTAL DISTRIBUIDORES TELCEL</p>
-			<p class="information-header2">&copy; 2003, Radiom&oacute;vil Dipsa, S.A. de C.V. Todos los derechos reservados</p>
+			<p class="copyrightHeader1">PORTAL DISTRIBUIDORES TELCEL</p>
+			<p class="copyrightHeader2">&copy; 2003, Radiom&oacute;vil Dipsa, S.A. de C.V. Todos los derechos reservados</p>
 		</div>
 		<div class="copyrigthContent">
 		  <p class="generalText">
