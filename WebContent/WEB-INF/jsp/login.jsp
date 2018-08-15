@@ -22,7 +22,6 @@
 	
 	<link rel="stylesheet" href="resources/css/fonts.css">
     <link rel="stylesheet" href="resources/css/pdist.css">
-    <link rel="stylesheet" href="resources/css/pdist-login.css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -35,7 +34,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
 
-<body class="hold-transition login-page" style="background-image: url(resources/img/Mxx_RWUg.jpeg);">
+<body class="hold-transition login-page login-body" style="background-image: url(resources/img/Mxx_RWUg.jpeg);">
 
         <div class="login-box">
             <div class="login-logo">
