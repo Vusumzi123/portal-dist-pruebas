@@ -121,7 +121,7 @@
     }
 
     .skin-blue .sidebar-menu>li.active>a {
-        border-left-color: #ff9933;
+       /* border-left-color: #ff9933;*/
     }
 
 
