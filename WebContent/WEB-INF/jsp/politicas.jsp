@@ -5,15 +5,14 @@
 	<head>
 		<title>Politicas de Privacidad</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<link rel="stylesheet" type="text/css" href="resources/css/politicas.css">
+		<link rel="stylesheet" type="text/css" href="resources/css/pdist.css">
 	</head>	
 	<body>
 		<div class="headerPoliticas">
-			<h1 class="tittle2-text">PORTAL DISTRIBUIDORES TELCEL</h1>
-			<h2>POL&Iacute;TICAS DE PRIVACIDAD</h2>
+			<p class="informationHeader1">PORTAL DISTRIBUIDORES TELCEL</p>
+			<p class="informationHeader2">POL&Iacute;TICAS DE PRIVACIDAD</p>
 		</div>
-		<div class="contenidoPoliticas">
-			<h3>POL&Iacute;TICAS DE PRIVACIDAD</h3>
+		<div class="generalContent">
 			<p>
 				TELCEL SE COMPROMETE A PROTEGER LA PRIVACIDAD DEL DISTRIBUIDOR EN LA 
           		P&Aacute;GINA DE TELCEL Y A FACILITAR LA TECNOLOG&Iacute;A DE DESARROLLO 
