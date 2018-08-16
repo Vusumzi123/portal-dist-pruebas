@@ -58,12 +58,12 @@
     }
 
     .skin-blue .main-header .navbar {
-        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.97), #ced5dd);
+        background-color:$grisExtraLight;
         box-shadow: 0 1.5px 3px 0 rgba(0, 0, 0, 0.16);
     }
 
     .skin-blue .main-header .navbar *{
-        color: #02b0ef!important;
+        color: $azulTelcel !important;
     }
 
     .skin-blue .main-header .logo {
