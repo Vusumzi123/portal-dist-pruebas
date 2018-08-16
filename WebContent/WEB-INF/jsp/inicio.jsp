@@ -56,22 +56,33 @@
         <span class="logo-lg">
           <img src="resources/icons/logoTelcel_Mesa de trabajo 1.svg" height="25px" alt=""> </span>
       </a>
+   
+      
       <!-- Header Navbar: style can be found in header.less -->
       <nav class="navbar navbar-static-top">
+      	   
         <!-- Sidebar toggle button-->
         <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
           <span class="sr-only">Toggle navigation</span>
+          
         </a>
-
+             
+		
         <div class="navbar-custom-menu">
+        
+    
           <ul class="nav navbar-nav">
+          
             <!-- Notifications: style can be found in dropdown.less -->
             <li class="dropdown notifications-menu">
+             
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+             
                 <i class="fa fa-bell-o"></i>
                 <span class="label label-warning">10</span>
               </a>
               <ul class="dropdown-menu">
+              	
                 <li class="header">You have 10 notifications</li>
                 <li>
                   <!-- inner menu: contains the actual data -->
