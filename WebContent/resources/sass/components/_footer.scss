@@ -1,0 +1,15 @@
+@import '../helpers/variables';
+.footerPortalDis{
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+	width:80%;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:.7vw;
+	margin-left:15%;
+	
+}
+
+footer a{
+	color:$azulMiTelcel;
+}
