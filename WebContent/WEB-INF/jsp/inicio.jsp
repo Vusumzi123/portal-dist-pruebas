@@ -29,106 +29,8 @@
   <!-- Daterange picker -->
   <link rel="stylesheet" href="resources/bower_components/bootstrap-daterangepicker/daterangepicker.css">
   <!-- Estilos de footer ayd-->
-  <link rel="stylesheet" type="text/css" href="resources/css/footer.css">
+  <link rel="stylesheet" type="text/css" href="resources/css/pdist.css">
 
-  <style>
-
-    @media only screen and (min-width: 667px) {
-      .main-header{
-        position:fixed;
-        width: 100%;
-      }
-      
-      .content-wrapper{
-        margin-top: 50px;
-      }
-    }
-
-    
-
-    #main-sidebar{
-      height: 100vh;
-      position: fixed;
-    }
-
-    .sidebar{
-      height: 100%!important;
-    }
-
-    #sdiebar-menu {
-      overflow: auto !important;
-      height: 90%;
-    }
-
-    *::-webkit-scrollbar {
-      width: 10px;
-      background-color: transparent;
-    }
-
-    *::-webkit-scrollbar-thumb {
-      background-color: darkgrey;
-      outline: 1px solid slategrey;
-      border-radius: 3px;
-    }
-
-    .home-button{
-      border-radius: 50%;
-      background-color: white;
-      color:gray;
-      font-size: 3rem;
-      width: 40px;
-      height: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .home-button-wrapper{
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 10%;
-    }
-
-    .skin-blue .main-header .navbar {
-        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.97), #ced5dd);
-        box-shadow: 0 1.5px 3px 0 rgba(0, 0, 0, 0.16);
-    }
-
-    .skin-blue .main-header .navbar *{
-        color: #02b0ef!important;
-    }
-
-    .skin-blue .main-header .logo {
-        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.97), #ced5dd);
-        box-shadow: 0 1.5px 3px 0 rgba(0, 0, 0, 0.16);
-        color: #02b0ef!important;
-    }
-
-    .skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side{
-        background-color:  #4a4b4d!important;
-    }
-
-    .skin-blue .sidebar-menu>li:hover>a, .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li.menu-open>a{
-        background-color: #02b0ef;
-        color: #ffffff;
-    }
-
-    .skin-blue .sidebar-menu>li>.treeview-menu {
-        background-color: #57585a;
-        color: #bbbdbf;
-
-    }
-
-    .skin-blue .sidebar-menu>li.active>a {
-       /* border-left-color: #ff9933;*/
-    }
-
-
-
-    
-
-  </style>
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -354,7 +256,7 @@
 		<ul >	
 			<ui>
 				<a href="${pageContext.request.contextPath}/Copyright" target="_blank">
-				 &copy; 2003, Radiomóvil Dipsa, S.A. de C.V. Todos los derechos reservados
+				 &copy; 2003, Radiom&oacute;vil Dipsa, S.A. de C.V. Todos los derechos reservados
 				</a>
 			</ui>
 			<ui>
