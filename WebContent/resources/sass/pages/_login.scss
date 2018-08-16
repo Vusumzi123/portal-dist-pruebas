@@ -19,44 +19,11 @@
 }
 
 
-.btn{
-    font-weight: bold!important;
-    display:flex;
-    justify-content:center;
-    align-items: center;
-}
-
-.btn-primary{
-    background-color: #ff9933;
-    border: 1px solid #ff9933;
-    color: white;
-}
-
-.btn-primary:hover{
-    color:white;
-    background-color: rgba(255, 153, 51, 0.692);
-}
-
-.btn-secondary{
-    background-color: #0a3b79;
-    color: white;
-}
-.btn-secondary:hover{
-    background-color: rgba(10, 58, 121, 0.699);
-    color: white;
-}
 
 .login-header{
     color: #0a3b79!important;
 }
 
-.button-icon{
-    height: 20px;
-}
-
-.button-icon path.st1{
-    fill:#ffffff;
-}
 
 .login-body{
 	background-repeat: no-repeat!important;

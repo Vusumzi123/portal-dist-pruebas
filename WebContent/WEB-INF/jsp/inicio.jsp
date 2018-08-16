@@ -64,7 +64,9 @@
         </a>
 
         <div class="navbar-custom-menu">
+        
           <ul class="nav navbar-nav">
+          
             <!-- Notifications: style can be found in dropdown.less -->
             <li class="dropdown notifications-menu">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">
