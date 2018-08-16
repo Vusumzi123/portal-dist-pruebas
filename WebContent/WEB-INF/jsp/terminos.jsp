@@ -2,17 +2,16 @@
 	<head>
 		<title>Terminos y Condiciones de Uso</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<link rel="stylesheet" type="text/css" href="resources/css/terminos.css">
-		<link rel="stylesheet" type="text/css" href="resources/css/fonts.css">
+		<link rel="stylesheet" type="text/css" href="resources/css/pdist.css">
 	</head>
 
 	<body>
 		<div class="headerTerminos" >
-			<h1 class="tittle2-text">PORTAL DISTRIBUIDORES TELCEL</h1>
-		 	<h2 class="tittle3-text">T&eacute;rminos y Condiciones de Uso:</h2>
+			<p class="informationHeader1">PORTAL DISTRIBUIDORES TELCEL</p>
+		 	<p class="informationHeader2">T&eacute;rminos y Condiciones de Uso:</p>
 		</div>
 		
-		<div class="ContenidoTerminos">
+		<div class="generalContent">
 			<h3>LIMITACI&Oacute;N DE RESPONSABILIDAD</h3>
 			<p>
 				POR MEDIO DE ESTA ADVERTENCIA, RADIOM&Oacute;VIL DIPSA, S.A. DE 
@@ -29,7 +28,7 @@
               	ENTRE RADIOM&Oacute;VIL DIPSA, S.A. DE C.V., SUS SUBSIDIARIAS Y/O 
               	AFILIADAS, Y LOS OPERADORES DE LOS SITIOS ENLAZADOS
 			</p>
-			<br>
+			
 			<p>
 				RADIOM&Oacute;VIL 
                 DIPSA, S.A. DE C.V., SUS SUBSIDIARIAS Y/O AFILIADAS NO CONTROLAN, 
@@ -40,7 +39,7 @@
                 DE LOS SERVICIOS, INFORMACI&Oacute;N, DATOS, ARCHIVOS, PRODUCTOS 
                 Y CUALQUIER CLASE DE MATERIAL EXISTENTE EN LOS SITIOS ENLAZADOS
 			</p>			
-			<br>
+			
 			<p>
 				RADIOM&Oacute;VIL 
                 DIPSA, S.A. DE C.V., SUS SUBSIDIARIAS Y/O AFILIADAS, NO GARANTIZAN 
@@ -48,23 +47,23 @@
                 DE TODA CLASE QUE PUEDAN CAUSARSE POR
 				
 			</p>
-			<br>
+			
 			<p>
 				A.EL FUNCIONAMIENTO, DISPONIBILIDAD, ACCESIBILIDAD O CONTINUIDAD DE LOS 
 				SITIOS ENLAZADOS.
 			</p>
-			<br>
+			
 			<p>
 				B.EL MANTENIMIENTO 
             	DE LOS SERVICIOS, INFORMACI&Oacute;N, DATOS, ARCHIVOS, PRODUCTOS Y 
             	CUALQUIER CLASE DE MATERIAL EXISTENTE EN LOS SITIOS ENLAZADOS	
 			<p>
-			<br>
+			
 			<p>
 				C.OBLIGACIONES Y OFERTAS EXISTENTES EN LOS SITIOS ENLAZADOS
 				
 			</p>
-			<br>
+			
 				
 			<h3>UTILIDAD</h3>
 			<p>
@@ -75,7 +74,7 @@
               	&Uacute;TILES PARA LA REALIZACI&Oacute;N DE NINGUNA ACTIVIDAD EN 
               	PARTICULAR.
 			</p>
-			<br>
+			
 			<p>
 				MEDIANTE EL USO DE ESTA P&Aacute;GINA, EL DISTRIBUIDOR 
               	RECONOCE Y ACEPTA QUE RADIOM&Oacute;VIL DIPSA, S.A. DE C.V., SUS 
@@ -101,7 +100,7 @@
               	DIFUNDIR, ALMACENAR O PONER A DISPOSICI&Oacute;N DE TERCEROS SU 
               	CONTENIDO.	
 			</p>
-			<br>
+			
 			<p>
 				MEDIANTE EL USO DE ESTA P&Aacute;GINA, EL DISTRIBUIDOR 
                 RECONOCE Y ACEPTA QUE RADIOM&Oacute;VIL DIPSA, S.A. DE C.V., SUS 

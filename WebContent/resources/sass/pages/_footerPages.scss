@@ -1,6 +1,6 @@
 @import '../components/fonts';
 @import '../helpers/variables';
-.copyrightHeader1{
+.informationHeader1{
 	@extend .tittle2-text;
 	color:$azulMiTelcel;
 	text-align: center;	
@@ -9,19 +9,21 @@
 }
 
 
-.copyrightHeader2{
+.informationHeader2{
 	@extend .tittle3-text;
 	color:$azulMiTelcel;
 	text-align: center;	
 	font-size:1vw;
+	margin-top:2px;
 
 }
 
-.copyrigthContent{
-	@extend .generalText;
+
+.generalContent{
 	text-align:justify;
 	width:80%;
-	color:#707070;
+	color:$gris100;
 	margin: auto;
 	
 }
+

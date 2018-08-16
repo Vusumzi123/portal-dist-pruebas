@@ -7,10 +7,10 @@
 	</head>
 	<body>
 		<div class="copyrightHeader">
-			<p class="copyrightHeader1">PORTAL DISTRIBUIDORES TELCEL</p>
-			<p class="copyrightHeader2">&copy; 2003, Radiom&oacute;vil Dipsa, S.A. de C.V. Todos los derechos reservados</p>
+			<p class="informationHeader1">PORTAL DISTRIBUIDORES TELCEL</p>
+			<p class="informationHeader2">&copy; 2003, Radiom&oacute;vil Dipsa, S.A. de C.V. Todos los derechos reservados</p>
 		</div>
-		<div class="copyrigthContent">
+		<div class="generalContent">
 		  <p class="generalText">
         	CUALQUIER LOGO, NOMBRE O SIGNO DISTINTIVO DE RADIOM&Oacute;VIL DIPSA, S.A. DE 
           	C.V, SUS SUBSIDIARIAS Y/O AFILIADAS, SON MARCAS REGISTRADAS EN LOS ESTADOS 
